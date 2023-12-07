@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+body {
+  background-color: #29DCA7;
+}
+
+div.links {
+  text-align: center;
+}
+
+div.field {
+  text-align: center;
+}
+
+div.actions {
+  text-align: center;
+}
+
+div.sign_up_link {
+  text-align: center;
+}
+
+div.forgot_pw_link {
+  text-align: center;
+}
