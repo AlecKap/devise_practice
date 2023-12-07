@@ -1,24 +1,19 @@
-# README
+# Devise Authentication Setup Application
+### The purpose of this application is to provide the code that demonstrates how to impliment the devise gem with Rails 7.  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* **Ruby version**
+  * 3.2.2
 
-Things you may want to cover:
+* **Rails version**
+  * 7.0.8
 
-* Ruby version
+* **Database**
+  * PostgreSQL
 
-* System dependencies
+* **To run through a login/logout cycle in local host use this command:**
+  * `rails s`
 
-* Configuration
+* **Then go to the URL below to access local host on your server.**
+  * http://localhost:3000
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Thank for you being here!
